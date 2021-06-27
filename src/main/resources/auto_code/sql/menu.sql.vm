@@ -1,0 +1,5 @@
+#set( $id  = $!{SnowflakeIdWorker.getUUID()})
+#set( $id1 = $!{SnowflakeIdWorker.getUUID()})
+#set( $id2 = $!{SnowflakeIdWorker.getUUID()})
+#set( $id3 = $!{SnowflakeIdWorker.getUUID()})
+#set( $id4 = $!{SnowflakeIdWorker.getUUID()})
